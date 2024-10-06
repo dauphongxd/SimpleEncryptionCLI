@@ -24,11 +24,10 @@ This project implements a simple encryption/decryption program with logging capa
 
 2. Open a terminal or command prompt and navigate to the directory containing the Java files.
 
-3. Compile the Java files:
+3. Compile the Java files: javac Driver.java Logger.java Encryption.java
 
-4. Run the program: java Driver logfile.txt
+4. Run the program: java Driver logfile.txt (Replace `logfile.txt` with the desired name for your log file.)
 
-Replace `logfile.txt` with the desired name for your log file.
 
 ## Usage
 
