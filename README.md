@@ -41,12 +41,6 @@ This project implements a simple encryption/decryption program with logging capa
 - Follow the on-screen prompts to use each feature.
 - The program maintains a history of successful operations, which can be viewed or used for subsequent operations.
 
-## Notes for the TA
 
-- The program uses separate processes for Encryption and Logging, demonstrating inter-process communication.
-- All user inputs and program outputs are logged in the specified log file.
-- The history feature stores unique entries in uppercase for consistency.
-- Error handling is implemented throughout the program to manage invalid inputs and operational errors.
-- The program demonstrates the use of various Java concepts including file I/O, process management, and data structures (LinkedHashSet for history).
 
 If you encounter any issues or have questions, please don't hesitate to reach out.
