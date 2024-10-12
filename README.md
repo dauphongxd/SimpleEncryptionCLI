@@ -15,8 +15,6 @@ This project implements a simple encryption/decryption program with logging capa
    - Manages logging of all program activities.
    - Writes log entries to a specified file.
 
-4. README.md (this file)
-   - Provides information about the project and how to run it.
 
 ## How to Compile and Run
 
